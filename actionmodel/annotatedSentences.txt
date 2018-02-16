@@ -1,0 +1,77 @@
+I will be on  <START:action> Leave <END>  this Monday.
+How many  <START:action> Leaves <END>  do I have?
+How many  <START:action> leave <END> s do I have?
+Will be on a  <START:action> leave <END>  on 4th of January.
+I will be on  <START:action> leave <END>  on the 15th of August
+I will be on  <START:action> leave <END>  on 15/05/2018
+I am on  <START:action> Leave <END> .
+How many  <START:action> leave <END> s left?
+I will be on  <START:action> leave <END>  on 15/04/2018
+What is my  <START:action> leave <END>  balance
+Require a  <START:action> Leave <END>  on 4th Jan.
+Need a  <START:action> leave <END> . So plan accordingly.
+Need a  <START:action> Leave <END>  next month.
+I was on  <START:action> Leave <END>  last monday.
+Require a  <START:action> Leave <END>  on 4th Nov.
+Apply for a  <START:action> PTO <END>  from 15/01/2018 to 17/01/2018
+Need a  <START:action> dayoff <END>  this Saturday.
+My  <START:action> Leave <END>  balances?
+Need  <START:action> leave <END>  next Saturday.
+How many  <START:action> PTOs <END>  left?
+My  <START:action> leave <END>  balance?
+How many  <START:action> leave <END> s do I have left?
+Need  <START:action> Leave <END>  this Sunday.
+How many  <START:action> leaves <END>  do I have left?
+Require a  <START:action> Leave <END>  on 4th Dec.
+How many  <START:action> PTO's <END>  do I have?
+One a  <START:action> leave <END>  next sunday.
+How many  <START:action> PTO <END> 's left?
+I was on  <START:action> Leave <END>  last Saturday.
+How many  <START:action> Leave <END> s left?
+Need a  <START:action> Leave <END>  this Saturday.
+I will be on  <START:action> leave <END>  on 15-01-2018
+How many  <START:action> PTO <END> s left?
+Require a  <START:action> Leave <END>  on the 4th of Nov.
+How many  <START:action> leaves <END>  left?
+Need a  <START:action> leave <END>  in February from 2nd to 15th.
+I am on  <START:action> leave <END>  next Wednesday
+What are my  <START:action> leave <END>  balances.
+I will be on  <START:action> leave <END>  on 15/04
+I will be on  <START:action> leave <END>  on 15/01
+I will be on  <START:action> leave <END>  next Sunday..
+Need  <START:action> Leave <END>  next month.
+Need a  <START:action> leave <END>  on 15/04/2018
+Apply for a  <START:action> PTO <END> .
+How many  <START:action> Leaves <END>  left?
+Planning for a  <START:action> leave <END>  on 15-01-2018
+I will be on  <START:action> leave <END>  next Friday.
+I will be on  <START:action> leave <END>  next Wednesday.
+How many  <START:action> leaves <END>  do I have?
+How many  <START:action> PTO <END> 's do I have?
+Apply for a  <START:action> PTO. <END>
+How many  <START:action> Leave <END> s do I have?
+How many  <START:action> PTO's <END>  left?
+Will be on a  <START:action> leave <END>  on the 4th of March.
+Will need  <START:action> Leave <END> .Please approve.
+I was on  <START:action> Leave <END>  monday.
+Taking the  <START:action> dayoff <END>  today.
+Adam is on  <START:action> leave <END>  for the next three days.
+Require a  <START:action> Leave <END>  on 7th Nov.
+George is on  <START:action> leave <END>  for the next 2 days.
+Will be on a  <START:action> leave <END>  on the 4th of February.
+on  <START:action> leave <END>  this week.
+on  <START:action> leave <END>  next week.
+Require a  <START:action> Leave <END>  on 5th Jan.
+Guys, I am on  <START:action> leave <END>  next week.
+Need a  <START:action> Leave <END>  this month.
+Can I get a 3 day  <START:action> leave <END>  next month from the 4th to the 6th?
+I will be on  <START:action> leave <END>  next Saturday.
+Need  <START:action> Leave <END>  this Saturday.
+Need a  <START:action> Leave <END>  next month from 2/02 to 15/02.
+I will be on  <START:action> leave <END>  next Tuesday.
+I was on  <START:action> Leave <END>  last Christmas.
+Require a  <START:action> Leave <END>  on 15th Nov.
+I am on  <START:action> leave <END>  next Monday
+my  <START:action> Leave <END>  balances?
+Need  <START:action> Leave <END>  this month.
+I will be on  <START:action> Leave <END>  next Tuesday.

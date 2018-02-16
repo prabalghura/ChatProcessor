@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><dictionary case_sensitive="false">
+<entry>
+<token>dayoff</token>
+</entry>
+<entry>
+<token>holiday</token>
+</entry>
+<entry>
+<token>Day</token>
+<token>Off</token>
+</entry>
+<entry>
+<token>day-off</token>
+</entry>
+<entry>
+<token>leave</token>
+</entry>
+</dictionary>
